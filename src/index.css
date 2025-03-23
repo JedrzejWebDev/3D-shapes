@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.shape-container {
+  @apply h-24 flex justify-center items-center;
+}
+
+.select-shape-item {
+  @apply h-12 rounded-md appearance-none text-center border;
+}
+
+.size-container {
+  @apply h-12 flex justify-center items-center;
+}
+
+.input-size-item {
+  @apply h-6 rounded-md text-center border;
+}
