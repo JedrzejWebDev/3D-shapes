@@ -1,3 +1,5 @@
+https://jedrzejwebdev.github.io/3D-shapes/
+
 ## 🧩 Struktura projektu:  
 **src/components** - znajdują się 3 pliki. Jeden z nich odpowiada za pole wyboru figury oraz jej rozmiar. Drugi za jej wyświetlanie. Trzeci jest nadrzędnym i wyświetla je  
 **src/index.css** - zawiera style z użyciem tailwinda  
